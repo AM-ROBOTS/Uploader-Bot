@@ -1,6 +1,6 @@
 #### [UPLOADER-BOT](https://t.me/Movies_zilaa)
 
-[![Size](https://img.shields.io/github/repo-size/8769Anurag/Uploader-Bot?style=flat-square&color=green)](https://github.com/8769Anurag/Uploader-Bot)
+[![Size](https://img.shields.io/github/repo-size/AM-ROBOTS/Uploader-Bot?style=flat-square&color=green)](https://github.com/AM-ROBOTS/Uploader-Bot)
 
 ---
 
@@ -28,25 +28,25 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 heroku/python
 ```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/8769ANURAG/Uploader-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/AM-ROBOTS/Uploader-Bot)
 
 
-## 🍃 How To Get Mongodb URI - [ Watch Video ](https://t.me/AboutGuruB)
+## 🍃 How To Get Mongodb URI - [ Watch Video ](https://t.me/AM_ROBOTS)
 
 
 ## 🚸 HEROKU CLI COMMANDS
 
-`* git clone https://github.com/8769ANURAG/Uploader-Bot`
+`* git clone https://github.com/AM-ROBOTS/Uploader-Bot`
 
 `* heroku login`
 
-`* cd UPLOADER-BOT`
+`* cd Uploader-Bot`
 
 `* heroku git:remote -a app-name`
 
 `* git pull origin V2.0`
 
-`* git push heroku V2.0:master`
+`* git push heroku V2.0:main`
 
 
 ## BOT COMMANDS
